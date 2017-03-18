@@ -1,6 +1,6 @@
 Email Verifier App - Form Validation API
 =========
-Intros, walkthroughs, how-tos, demos, and docs for the Email Verifier API - <strong>PHP Code</strong>. More details can be found on our website - www.emailverifierapp.com including information on our innovative 12 stage cleaning process. 
+Intros, walkthroughs, how-tos, demos, and docs for the Email Verifier API - <strong>HTTP Code</strong>. More details can be found on our website - www.emailverifierapp.com including information on our innovative 12 stage cleaning process. 
 
 Getting Started with Email Verifier
 --------------------------------
